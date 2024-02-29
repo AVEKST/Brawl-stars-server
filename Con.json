@@ -1,11 +1,11 @@
 {
-    "Name": "Player",
+    "Name": "AVEKST",
     "ProfileIcon": 0,
     "NameColor": 0,
-    "Trophies": 99999,
-    "HighestTrophies": 99999,
-    "Gems": 99999,
-    "Gold": 99999,
-    "Star": 99999,
+    "Trophies": 0,
+    "HighestTrophies": 0,
+    "Gems": 0,
+    "Gold": 0,
+    "Star": 0,
     "HomeBrawler": 0
 }
