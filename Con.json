@@ -1,6 +1,11 @@
-gems:0
-starpoints:0
-brawl_pass:60
-support_author:AVEKST
-tickets:0
-theme_for_menu:0
+{
+    "Name": "Player",
+    "ProfileIcon": 0,
+    "NameColor": 0,
+    "Trophies": 99999,
+    "HighestTrophies": 99999,
+    "Gems": 99999,
+    "Gold": 99999,
+    "Star": 99999,
+    "HomeBrawler": 0
+}
